@@ -22,7 +22,7 @@ Currently only english is supported.
 
 
 # Alternatives
-If you don't want to mod your game there is this (way more advanced) app: **[Utsushi's Charm](https://github.com/chpoit/utsushis-charm)**
+If you don't want to mod your game or you are playing on Nintendo Switch there is this (way more advanced) app: **[Utsushi's Charm](https://github.com/chpoit/utsushis-charm)**
 
 
 
