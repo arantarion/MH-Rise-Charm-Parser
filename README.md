@@ -7,8 +7,9 @@ Currently only english is supported.
 # Usage
 1. Export your charms with this **[mod](https://www.nexusmods.com/monsterhunterrise/mods/17)**
 2. Download / Clone this repo
-3. Open the charm_parser.py file (either double click or open with terminal)
-    - (if you only see the terminal pop up for a second and then close there is an error somewhere. Try to run the file from the terminal to see the error message)
+3. Open the **charm_parser.py** file (either double click or open with terminal)
+    - if you only see the terminal pop up for a second and then close there is an error somewhere. Try to run the file from the terminal to see the error message
+    - if you are more into jupter notebooks there is a version for that too
 4. Select the exported JSON file
 5. If you see the success message there should be a file called "charms.txt" in the directory where you started the python script
     - You will see an error message if the JSON file can not be parsed or if not all charms could be converted (in this case all other charms will be saved tho) 
